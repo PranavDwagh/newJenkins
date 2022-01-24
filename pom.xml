@@ -15,7 +15,7 @@
 	</dependencies>
 	
 	<build>
- <finalName>newjenkins</finalName>
+ <finalName>java-jenkins-docker</finalName>
  </build>
 	
 </project>
